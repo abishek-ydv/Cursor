@@ -475,3 +475,88 @@ footer {
     color: #858181;
 }
 
+.footer-copyright {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    padding: 2rem 5rem;
+    background-color: #1b1913;
+}
+
+.footer-copyright-left {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    color: #8a8682;
+    font-size: 16px;
+}
+
+.soc2-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 16px;
+}
+
+.soc2-badge svg{
+    width: 15px;
+    height: 15px;
+    flex-shrink: 0;
+}
+
+.footer-copyright-right {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.footer-icon-button {
+    background: none;
+    border: none;
+    color: #edecec;
+    font-size: 13px;
+    cursor: pointer;
+    padding: 6px 8px;
+    border-radius: 0.3rem;
+    transition: background-color 300ms ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-icon-button:hover {
+    background-color: #2d2a26;
+}
+
+.footer-theme-toggle {
+    background: none;
+    border:1px solid #2d2a26;
+    border-radius: 5rem; 
+    color: #edecec;
+    cursor: pointer;
+    transition: background-color 300ms ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-language-button {
+    padding: 5px 11px;
+    background-color: #1b1913;
+    border: 1px solid #2d2a26;
+    color: #edecec;
+    border-radius: 1rem;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 300ms ease-in-out;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.footer-language-button:hover {
+    background-color: #2d2a26;
+}
+
