@@ -1,6 +1,6 @@
 # Cursor Website Clone - Frontend
 
-**Live Link :** https://abishek-ydv.github.io/Mintlify/
+**Live Link :** [https://abishek-ydv.github.io/Cursor/](https://abishek-ydv.github.io/Cursor/)
 
 A pixel-perfect recreation of the **Cursor AI Editor** landing page built with **HTML5** and **CSS3** only. This project showcases responsive design, modern styling, and clean semantic HTML structure.
 
